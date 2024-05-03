@@ -1,9 +1,9 @@
 # MIDI-Bard
 
-## Introduction
+*MIDI-Bard is an innovative software tool designed to bridge the gap between musical creativity and digital
+functionality.*
 
-MIDI-Bard is an innovative software tool designed to bridge the gap between musical creativity and digital
-functionality. By converting MIDI keyboard inputs into conventional keyboard strokes, MIDI-Bard allows musicians and
+By converting MIDI keyboard inputs into conventional keyboard strokes, MIDI-Bard allows musicians and
 enthusiasts to use their MIDI devices to interact with applications that do not natively support MIDI. This is
 particularly useful in environments like the popular MMORPG, Final Fantasy XIV (FFXIV), where players can perform music
 using the in-game Bard class without direct MIDI support.
@@ -37,11 +37,11 @@ To set up your development environment and start contributing to MIDI-Bard, foll
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MIDI-Bard.git
+   git clone https://github.com/TonyBionda/MIDI-Bard.git
    cd MIDI-Bard
     ```
 
-2. Install the required dependencies:
+2. Install the required dependencies (you should use `venv`):
     ```bash
     pip install -r requirements.txt
     ```
