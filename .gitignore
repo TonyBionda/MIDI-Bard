@@ -1,0 +1,17 @@
+/dist/
+/build/
+
+*.pyc
+
+__pycache__/
+
+*.log
+*.csv
+*.dat
+*.out
+*.tmp
+
+venv/
+.env
+
+.idea/
